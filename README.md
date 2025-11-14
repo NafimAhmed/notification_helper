@@ -5,6 +5,9 @@ A lightweight, easy-to-use Flutter helper package for **Firebase Cloud Messaging
 This package is designed to make notification integration extremely simple — even for beginners.  
 It includes FCM token fetching, push notification sending, local notification display, and background handler support.
 
+
+![Linear Date Picker Demo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNwcnd6a3Z5dzRzdXo3YXo4MTg5YzV4azU1ZGh6Z2VqZWNwaWhuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tMEAP6v4cBjht6xVWr/giphy.gif)
+
 ---
 
 # ✅ Summary of Everything Included in This Package

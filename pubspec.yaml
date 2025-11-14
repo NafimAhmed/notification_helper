@@ -5,7 +5,7 @@ description: >
   Best for internal tools and testing environments.
 
 version: 0.0.1
-homepage: https://github.com/your_github/firebase_notification_helper
+homepage: https://github.com/NafimAhmed/notification_helper
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
