@@ -3,15 +3,13 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
-// Firebase
+
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 
-// 🔔 LOCAL NOTIFICATION
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 
-/// 👉 Example er jonno: ekhane real key diba na.
-/// User nijer project e nijer server key boshabe.
+
 const String kDefaultServerKey = '<Cloud Messaging API (Legacy) Server key>';
 
 // 🔔 Local notification plugin instance
@@ -27,7 +25,7 @@ AndroidNotificationChannel(
   importance: Importance.high,
 );
 
-/// 🔹 Background message handler (top-level function হতে হবে)
+
 Future<void> _firebaseMessagingBackgroundHandler(RemoteMessage message) async {
   await Firebase.initializeApp();
   debugPrint('🔔 BG Message: ${message.messageId}');
@@ -90,7 +88,7 @@ class _FcmSenderHomeState extends State<FcmSenderHome> {
   final TextEditingController _titleCtrl =
   TextEditingController(text: 'Test Notification');
   final TextEditingController _bodyCtrl = TextEditingController(
-      text: 'এই notification টা FCM token দিয়ে পাঠানো হয়েছে 🙂');
+      text: '🙂');
 
   bool _isSending = false;
   String? _result;
@@ -160,7 +158,7 @@ class _FcmSenderHomeState extends State<FcmSenderHome> {
     super.dispose();
   }
 
-  /// 🔔 শুধু লোকাল test notification দেখানোর জন্য
+
   Future<void> _showLocalNotification() async {
     final title = _titleCtrl.text.trim().isEmpty
         ? 'Local Notification'
@@ -193,11 +191,11 @@ class _FcmSenderHomeState extends State<FcmSenderHome> {
     final body = _bodyCtrl.text.trim();
 
     if (serverKey.isEmpty) {
-      setState(() => _result = '❌ আগে উপরে FCM Server key বসাও');
+      setState(() => _result = '');
       return;
     }
     if (token.isEmpty) {
-      setState(() => _result = '❌ আগে target device er FCM token লিখো');
+      setState(() => _result = '');
       return;
     }
 
@@ -357,7 +355,7 @@ class _FcmSenderHomeState extends State<FcmSenderHome> {
                 child: SingleChildScrollView(
                   child: Text(
                     _result ??
-                        'এখানে FCM server এর response দেখাবে (success / error)...',
+                        '',
                     style: const TextStyle(fontSize: 12),
                   ),
                 ),
