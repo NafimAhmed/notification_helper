@@ -1,0 +1,28 @@
+name: firebase_notification_helper
+description: >
+  A lightweight helper for Firebase Messaging, local notifications,
+  and sending FCM push notifications via Legacy API.
+  Best for internal tools and testing environments.
+
+version: 0.0.1
+homepage: https://github.com/your_github/firebase_notification_helper
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.19.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+  firebase_core: ^3.0.0
+  firebase_messaging: ^15.0.0
+  flutter_local_notifications: ^17.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: false

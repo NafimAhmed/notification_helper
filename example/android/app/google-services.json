@@ -1,0 +1,251 @@
+{
+  "project_info": {
+    "project_number": "872199068866",
+    "firebase_url": "https://methodical-bank-274114.firebaseio.com",
+    "project_id": "methodical-bank-274114",
+    "storage_bucket": "methodical-bank-274114.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872199068866:android:94eea41ecee3e72ebd6f5b",
+        "android_client_info": {
+          "package_name": "com.example.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872199068866-or14v9uj9mjcdklj7j1m29eo4pjcei1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH2_uyktxHareu0CzGERGB1B3k8Nl24rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872199068866-or14v9uj9mjcdklj7j1m29eo4pjcei1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872199068866:android:fffaacafec99fd93bd6f5b",
+        "android_client_info": {
+          "package_name": "com.example.test_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872199068866-or14v9uj9mjcdklj7j1m29eo4pjcei1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH2_uyktxHareu0CzGERGB1B3k8Nl24rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872199068866-or14v9uj9mjcdklj7j1m29eo4pjcei1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872199068866:android:5730450af0fc6a62bd6f5b",
+        "android_client_info": {
+          "package_name": "com.nafim.bizz_project2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872199068866-kktb5el31aou2lfaivu0b7quj0p011gu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nafim.bizz_project2",
+            "certificate_hash": "99e5331587b9528ce402d213fb405f9f716d8cb4"
+          }
+        },
+        {
+          "client_id": "872199068866-or14v9uj9mjcdklj7j1m29eo4pjcei1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH2_uyktxHareu0CzGERGB1B3k8Nl24rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872199068866-or14v9uj9mjcdklj7j1m29eo4pjcei1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872199068866:android:2e9deb7677488e60bd6f5b",
+        "android_client_info": {
+          "package_name": "com.nafim.googletranslator2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872199068866-or14v9uj9mjcdklj7j1m29eo4pjcei1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH2_uyktxHareu0CzGERGB1B3k8Nl24rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872199068866-or14v9uj9mjcdklj7j1m29eo4pjcei1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872199068866:android:061f2c0d5967532dbd6f5b",
+        "android_client_info": {
+          "package_name": "com.nafim.googletranslator3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872199068866-or14v9uj9mjcdklj7j1m29eo4pjcei1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH2_uyktxHareu0CzGERGB1B3k8Nl24rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872199068866-or14v9uj9mjcdklj7j1m29eo4pjcei1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872199068866:android:148437e56c114bcabd6f5b",
+        "android_client_info": {
+          "package_name": "com.nafim.notification1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872199068866-or14v9uj9mjcdklj7j1m29eo4pjcei1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH2_uyktxHareu0CzGERGB1B3k8Nl24rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872199068866-or14v9uj9mjcdklj7j1m29eo4pjcei1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872199068866:android:162d34c89afdc821bd6f5b",
+        "android_client_info": {
+          "package_name": "com.nafim.phone_number_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872199068866-or14v9uj9mjcdklj7j1m29eo4pjcei1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH2_uyktxHareu0CzGERGB1B3k8Nl24rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872199068866-or14v9uj9mjcdklj7j1m29eo4pjcei1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872199068866:android:885f11addccbd125bd6f5b",
+        "android_client_info": {
+          "package_name": "com.nafim.sms_app2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872199068866-or14v9uj9mjcdklj7j1m29eo4pjcei1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH2_uyktxHareu0CzGERGB1B3k8Nl24rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872199068866-or14v9uj9mjcdklj7j1m29eo4pjcei1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
